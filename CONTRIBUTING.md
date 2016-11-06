@@ -48,7 +48,7 @@ Harvey uses Github Pull Requests to accept contributions.
 3.  Make changes
 4.  Commit with a descriptive message and [signed-off-by:](https://github.com/docker/Harvey-OS/harvey/master/CONTRIBUTING.md#sign-your-work):
     ```
-    $ git commit -m -s "A brief summary of the commit
+    $ git commit -s -m "A brief summary of the commit
     >
     > A paragraph describing what changed and its impact."
     ```
